@@ -50,7 +50,7 @@ const Input = ({ theme, outline, placeholder, placeholderColor, value, onChange,
                     )}
                 </View>
             }
-        </View >
+        </View>
     )
 }
 
