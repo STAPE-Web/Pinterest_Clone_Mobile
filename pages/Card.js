@@ -64,7 +64,7 @@ const Card = ({ navigation }) => {
                 </View>
             </View>
             <Nav theme='black' icons={icons} />
-        </View >
+        </View>
     )
 }
 
