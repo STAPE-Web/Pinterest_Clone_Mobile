@@ -22,7 +22,7 @@ const Nav = ({ icons, theme }) => {
                     ))}
                 </View>
             )}
-        </View >
+        </View>
     )
 }
 
